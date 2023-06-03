@@ -1,0 +1,37 @@
+.title {
+    background-color: darkgreen;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    
+}
+
+.texts {
+    background-color: rgb(181, 181, 0);
+    padding: 100px;
+}
+
+.info {
+    background-color: rgb(1, 1, 140);
+    color: white;
+    padding: 50px;
+    display: block;
+}
+
+a {
+    color: white;
+}
+
+a:visited {
+    color: rgb(130, 130, 130);
+}
+
+a:hover{
+    color: rgb(172, 172, 172);
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
